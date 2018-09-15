@@ -1,0 +1,19 @@
+{
+  "name": "Wanko",
+  "version": "0.0.1",
+  "description": "Bot discord thing",
+  "main": "bot.js",
+  "author": "Fezezen",
+  "license": "ISC",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": "8.0.0"
+  },
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "npm": "^6.4.1",
+    "express": "^4.16.3"
+  }
+}
